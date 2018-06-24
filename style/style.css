@@ -1,0 +1,12 @@
+select {
+	display: block;
+}
+.right-time {
+	display: flex;
+	align-items: center;
+}
+
+.collection .collection-item.avatar {
+	display: flex;
+	align-items: center;
+}
